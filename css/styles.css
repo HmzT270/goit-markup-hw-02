@@ -35,7 +35,8 @@ header li {
   list-style-type: none;
 }
 
-.web {
+.web-header,
+.web-footer {
   font-weight: 700;
   font-size: 0.9;
   line-height: 1.05;
@@ -44,7 +45,8 @@ header li {
   color: #4d5ae5;
 }
 
-.studio {
+.studio-header,
+.studio-footer {
   font-weight: 700;
   font-size: 0.9;
   line-height: 1.05;
