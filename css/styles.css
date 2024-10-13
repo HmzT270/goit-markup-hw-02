@@ -13,7 +13,7 @@ header nav li a {
   font-weight: 500;
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 header nav li a:hover {
@@ -23,7 +23,7 @@ header nav li a:hover {
 header address li a {
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -40,7 +40,7 @@ header li {
   font-weight: 700;
   font-size: 0.9;
   line-height: 1.05;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   font-family: "Raleway", sans-serif;
   color: #4d5ae5;
 }
@@ -50,7 +50,7 @@ header li {
   font-weight: 700;
   font-size: 0.9;
   line-height: 1.05;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   font-family: "Raleway", sans-serif;
 }
 
@@ -58,7 +58,7 @@ button {
   font-weight: 500;
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
@@ -72,7 +72,7 @@ button:hover {
   font-weight: 700;
   font-size: 2.8;
   line-height: 3;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   background-color: #2e2f42;
   color: #ffffff;
 }
@@ -85,14 +85,14 @@ button:hover {
   font-weight: 500;
   font-size: 1;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   list-style-type: none;
 }
 
 .section-2 p {
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -100,7 +100,7 @@ button:hover {
   font-weight: 700;
   font-size: 1.8;
   line-height: 2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   background-color: #f4f4fd;
   color: #2e2f42;
 }
@@ -109,14 +109,14 @@ button:hover {
   font-weight: 500;
   font-size: 1;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   list-style-type: none;
 }
 
 .section-3 p {
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -124,7 +124,7 @@ button:hover {
   font-weight: 700;
   font-size: 1.8;
   line-height: 2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -132,14 +132,14 @@ button:hover {
   font-weight: 500;
   font-size: 1;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   list-style-type: none;
 }
 
 .section-4 p {
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -151,7 +151,7 @@ footer a {
   font-weight: 700;
   font-size: 0.9;
   line-height: 1.05;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #f4f4fd;
   text-decoration: none;
 }
@@ -159,6 +159,6 @@ footer a {
 footer p {
   font-size: 0.8;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
